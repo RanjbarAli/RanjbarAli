@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali Ranjbar
-- 👀 I’m interested in programming back-end and front-end
-- 🌱 I’m currently learning Professional SEO
-- 📫 info@aliranjbar.ir / aliranjbar.ir
+- I’m currently learning Professional SEO / 📫 info@aliranjbar.ir / aliranjbar.ir
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjbarali&layout=compact)
