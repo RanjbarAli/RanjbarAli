@@ -1,10 +1,10 @@
 ### Ali Ranjbar Jelodar
 
 
-
 #### 🚀 About
 
-Programmer with 5 years in back-end and 6 years in front-end web, interested in collaborating on startups and innovative ideas.
+A Web Developer with 5 years experience in Back-end and 6 years in Front-end. <br />
+Interested in collaborating on startups and innovative ideas.
 
 
 
