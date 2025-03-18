@@ -1,4 +1,4 @@
-### Hi, I'm Ali Ranjbar Jelodar
+### I'm Ali Ranjbar Jelodar
 
 
 
