@@ -33,7 +33,6 @@ Interested in collaborating on startups and innovative ideas.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" height="28" alt="XD" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" height="28" alt="Photoshop" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="28" alt="Socketio" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="28" alt="Socketio" />
 </p>
 
 
