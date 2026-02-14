@@ -3,8 +3,8 @@
 
 #### 🚀 About
 
-A Web Developer with 5 years experience in Back-end and 6 years in Front-end. <br />
-Interested in collaborating on startups and innovative ideas.
+A passionate Web Developer with Front-end roots since 2013 and solid Back-end expertise since 2019, focused on clean architecture, performance, and scalable solutions.<br>
+Interested in collaboration on innovative startups and building personal idea-driven ventures.
 
 
 
