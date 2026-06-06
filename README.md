@@ -3,7 +3,7 @@
 
 #### 🚀 About
 
-A passionate Web Developer with Front-end roots since 2013 and solid Back-end expertise since 2019, focused on clean architecture, performance, and scalable solutions.<br>
+A passionate Web Developer with Front-end roots since 2015 and solid Back-end expertise since 2019, focused on clean architecture, performance, and scalable solutions.<br>
 Interested in collaboration on innovative startups and building personal idea-driven ventures.
 
 
